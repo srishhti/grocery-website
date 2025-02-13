@@ -1,2 +1,2 @@
 # grocery-website
-website for grocery shopping 
+Static website for grocery shopping 
